@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Clinical Pastoral Education in Nigeria",
+  "short_name": "CPE Nigeria",
+  "description": "A conceptual policy framework for strengthening Clinical Pastoral Education in Nigeria through professional formation, clinical supervision, curriculum development, institutional collaboration, and quality assurance.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1877f2",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
