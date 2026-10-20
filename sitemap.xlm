@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN/</loc><priority>1.0</priority></url>
+  <url><loc>https://YOUR-DOMAIN/introduction</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/problem-statement</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/aim-and-objectives</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/research-questions</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/conceptual-foundations</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/methodology</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/cpe-in-nigeria</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/proposed-framework</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/curriculum-delivery</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/implementation-roadmap</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/monitoring-and-evaluation</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/discussion</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/limitations-and-future-research</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/recommendations</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/conclusion</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/references</loc><priority>0.8</priority></url>
+  <url><loc>https://YOUR-DOMAIN/about-the-author</loc><priority>0.8</priority></url>
+</urlset>
